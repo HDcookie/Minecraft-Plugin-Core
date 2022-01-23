@@ -33,7 +33,6 @@ public final class MainPlugin extends JavaPlugin {
         messages = new Messages();
         messages.initiateMessages("messages");
 
-        saveResource("config.yml", true);
 
 
         //Adding Commands and Event stuff

@@ -17,7 +17,7 @@ public class BasicCommands implements Listener {
     @EventHandler
     public void onCommand(PlayerCommandPreprocessEvent event){
         Player player = event.getPlayer();
-        messages = new Messages();
+
 
         switch (event.getMessage()){
             case "/sun" : {
