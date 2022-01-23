@@ -23,5 +23,5 @@ Telaports:
 
 Discordbot:
   enabled: true
-  token: "OTA0MTE3MTIzOTgxNDA2MjQ5.YX22sA.MWBx0X3Tr_H5IV64qxFIgrfncXc"
+  token: ""
   status: "Minecraft server"
