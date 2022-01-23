@@ -1,0 +1,14 @@
+#Just for test purpuses, remove before release
+testMessage: "Hi pls work"
+basicCommands:
+  sun: "set weather to sun  (edit this message in messages.yml)"
+  rain: "set weather to rain (edit this message in messages.yml)"
+  day: "set time to day (edit this message in messages.yml)"
+  night: "set time to night (edit this message in messages.yml)"
+
+commands:
+  getItem:
+    itemNotFound: "item not found (edit this message in messages.yml)"
+    items:
+      healWand: "got heal wand (edit this message in messages.yml)"
+      craftingTable: "got portable Crafting Table (edit this message in messages.yml)"

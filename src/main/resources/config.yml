@@ -1,0 +1,27 @@
+#Welcome to the config!!!!! Rubber is a nerd
+
+#Location where you spawn when you join
+
+#This disables creating portals, enable it when adding nether
+disable-nether: true
+
+#SQL info. Unfortunately its required
+sql:
+  host: "localhost"
+  port: 3306
+  database: "test"
+  username: "root"
+  password: ""
+#All the corordenets for teleporting commands
+Telaports:
+  hub:
+  spawn:
+  join:
+    enabled:
+
+
+
+Discordbot:
+  enabled: true
+  token: "OTA0MTE3MTIzOTgxNDA2MjQ5.YX22sA.MWBx0X3Tr_H5IV64qxFIgrfncXc"
+  status: "Minecraft server"

@@ -1,0 +1,11 @@
+name: MainPlugin
+version: '${project.version}'
+main: me.hdcookie.plugin.mainplugin.MainPlugin
+api-version: 1.18
+authors: [ HDcookie ]
+description: Its a plugin.... what did u expect
+commands:
+  hub:
+  menu:
+  cban:
+  getItem:
